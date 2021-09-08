@@ -20,3 +20,7 @@
 * [INDUCTORS](notes/inductors.md)
 * [RC AND L/R TIME CONSTANTS](notes/rc-and-l-r-time-constants.md)
 
+## Digital Signal Processing
+
+* [Digital Signal Processing](digital-signal-processing/digital-signal-processing.md)
+
