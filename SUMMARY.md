@@ -13,4 +13,5 @@
 * [DC METERING CIRCUITS](notes/dc-metering-circuits.md)
 * [ELECTRICAL INSTRUMENTATION SIGNALS](notes/electrical-instrumentation-signals.md)
 * [DC NETWORK ANALYSIS](notes/dc-network-analysis.md)
+* [BATTERIES AND POWER SYSTEMS](notes/batteries-and-power-systems.md)
 
