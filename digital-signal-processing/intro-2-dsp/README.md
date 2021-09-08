@@ -1,9 +1,10 @@
 # Intro 2 DSP
 
-\*\*\*\*
+{% file src="../../.gitbook/assets/dsp\_book\_dspguide.zip" %}
 
-[**Chapter3.pdf**](http://www.dspguide.com/CH3.PDF)  
-![](http://www.dspguide.com/new/images/adobe-reader.png)
+{% file src="../../.gitbook/assets/andreas-intoniou-digital-signal-processing.9780071454247.31527.pdf" %}
+
+
 
 ### Table of contents
 

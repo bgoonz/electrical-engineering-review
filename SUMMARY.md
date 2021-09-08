@@ -31,5 +31,6 @@
   * [Superposition](digital-signal-processing/intro-2-dsp/superposition.md)
 * [Convolution](digital-signal-processing/convolution.md)
 * [Distributed Arithmetic](digital-signal-processing/distributed-arithmetic.md)
-* [Digital Signal Processing](digital-signal-processing/digital-signal-processing.md)
+* [Digital Signal Processing](digital-signal-processing/digital-signal-processing/README.md)
+  * [Why Do We Need Filters?](digital-signal-processing/digital-signal-processing/why-do-we-need-filters.md)
 
