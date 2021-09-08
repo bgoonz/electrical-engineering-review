@@ -27,6 +27,7 @@
   * [The Sampling Theorem](digital-signal-processing/intro-2-dsp/the-sampling-theorem.md)
   * [Digital-to-Analog Conversion](digital-signal-processing/intro-2-dsp/digital-to-analog-conversion.md)
   * [Analog Filters for Data Conversion](digital-signal-processing/intro-2-dsp/analog-filters-for-data-conversion.md)
+  * [Signals and Systems](digital-signal-processing/intro-2-dsp/signals-and-systems.md)
 * [Distributed Arithmetic](digital-signal-processing/distributed-arithmetic.md)
 * [Digital Signal Processing](digital-signal-processing/digital-signal-processing.md)
 
