@@ -1,6 +1,6 @@
 # DC NETWORK ANALYSIS
 
-
+{% file src="../.gitbook/assets/dc.pdf" %}
 
 ### What is network analysis?
 
