@@ -1,8 +1,8 @@
 # Digital Signal Processing
 
-{% file src="../../.gitbook/assets/andreas-intoniou-digital-signal-processing.9780071454247.31527 \(1\).pdf" %}
+{% embed url="https://pdfhost.io/v/oIbs2gaaB\_The\_Scientist\_and\_Engineers\_Guide\_to\_Digital\_Signal\_Processing" %}
 
-#### 
+
 
 #### Analog Signal Processing
 

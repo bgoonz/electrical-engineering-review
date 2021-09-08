@@ -2,15 +2,15 @@
 
 ## Initial page
 
-## [**website**](https://bryan-guner.gitbook.io/electrical-engineering/)
+### Initial page
 
+### [**website**](https://bryan-guner.gitbook.io/electrical-engineering/)
 
+## Table of contents
 
-# Table of contents
+* [Initial page](./)
 
-* [Initial page](README.md)
-
-## notes
+### notes
 
 * [Basics](notes/basics.md)
 * [Ohms Law](notes/ohms-law.md)
@@ -28,9 +28,9 @@
 * [INDUCTORS](notes/inductors.md)
 * [RC AND L/R TIME CONSTANTS](notes/rc-and-l-r-time-constants.md)
 
-## Digital Signal Processing
+### Digital Signal Processing
 
-* [Intro 2 DSP](digital-signal-processing/intro-2-dsp/README.md)
+* [Intro 2 DSP](digital-signal-processing/intro-2-dsp/)
   * [Quantization](digital-signal-processing/intro-2-dsp/quantization.md)
   * [The Sampling Theorem](digital-signal-processing/intro-2-dsp/the-sampling-theorem.md)
   * [Digital-to-Analog Conversion](digital-signal-processing/intro-2-dsp/digital-to-analog-conversion.md)
@@ -39,6 +39,6 @@
   * [Superposition](digital-signal-processing/intro-2-dsp/superposition.md)
 * [Convolution](digital-signal-processing/convolution.md)
 * [Distributed Arithmetic](digital-signal-processing/distributed-arithmetic.md)
-* [Digital Signal Processing](digital-signal-processing/digital-signal-processing/README.md)
+* [Digital Signal Processing](digital-signal-processing/digital-signal-processing/)
   * [Why Do We Need Filters?](digital-signal-processing/digital-signal-processing/why-do-we-need-filters.md)
 
