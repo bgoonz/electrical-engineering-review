@@ -4,6 +4,118 @@
 
 {% file src="../../.gitbook/assets/andreas-intoniou-digital-signal-processing.9780071454247.31527.pdf" %}
 
+{% file src="../../.gitbook/assets/dsp\_book\_ch1.pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch2.pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch3.pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch4 \(1\).pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch5.pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch6 \(1\).pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch7.pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch8.pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch9.pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch10.pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch11.pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch12.pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch13.pdf" %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Table of contents
