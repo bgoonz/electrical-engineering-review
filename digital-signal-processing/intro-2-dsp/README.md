@@ -1,5 +1,54 @@
 # Intro 2 DSP
 
+\*\*\*\*
+
+[**Chapter3.pdf**](http://www.dspguide.com/CH3.PDF)  
+![](http://www.dspguide.com/new/images/adobe-reader.png)
+
+### Table of contents
+
+* * [1: The Breadth and Depth of DSP](http://www.dspguide.com/ch1.htm)
+  * [2: Statistics, Probability and Noise](http://www.dspguide.com/ch2.htm)
+  * [3: ADC and DAC](http://www.dspguide.com/ch3.htm)
+    * [Quantization](http://www.dspguide.com/ch3/1.htm)
+    * [The Sampling Theorem](http://www.dspguide.com/ch3/2.htm)
+    * [Digital-to-Analog Conversion](http://www.dspguide.com/ch3/3.htm)
+    * [Analog Filters for Data Conversion](http://www.dspguide.com/ch3/4.htm)
+    * [Selecting The Antialias Filter](http://www.dspguide.com/ch3/5.htm)
+    * [Multirate Data Conversion](http://www.dspguide.com/ch3/6.htm)
+    * [Single Bit Data Conversion](http://www.dspguide.com/ch3/7.htm)
+  * [4: DSP Software](http://www.dspguide.com/ch4.htm)
+  * [5: Linear Systems](http://www.dspguide.com/ch5.htm)
+  * [6: Convolution](http://www.dspguide.com/ch6.htm)
+  * [7: Properties of Convolution](http://www.dspguide.com/ch7.htm)
+  * [8: The Discrete Fourier Transform](http://www.dspguide.com/ch8.htm)
+  * [9: Applications of the DFT](http://www.dspguide.com/ch9.htm)
+  * [10: Fourier Transform Properties](http://www.dspguide.com/ch10.htm)
+  * [11: Fourier Transform Pairs](http://www.dspguide.com/ch11.htm)
+  * [12: The Fast Fourier Transform](http://www.dspguide.com/ch12.htm)
+  * [13: Continuous Signal Processing](http://www.dspguide.com/ch13.htm)
+  * [14: Introduction to Digital Filters](http://www.dspguide.com/ch14.htm)
+  * [15: Moving Average Filters](http://www.dspguide.com/ch15.htm)
+  * [16: Windowed-Sinc Filters](http://www.dspguide.com/ch16.htm)
+  * [17: Custom Filters](http://www.dspguide.com/ch17.htm)
+  * [18: FFT Convolution](http://www.dspguide.com/ch18.htm)
+  * [19: Recursive Filters](http://www.dspguide.com/ch19.htm)
+  * [20: Chebyshev Filters](http://www.dspguide.com/ch20.htm)
+  * [21: Filter Comparison](http://www.dspguide.com/ch21.htm)
+  * [22: Audio Processing](http://www.dspguide.com/ch22.htm)
+  * [23: Image Formation & Display](http://www.dspguide.com/ch23.htm)
+  * [24: Linear Image Processing](http://www.dspguide.com/ch24.htm)
+  * [25: Special Imaging Techniques](http://www.dspguide.com/ch25.htm)
+  * [26: Neural Networks \(and more!\)](http://www.dspguide.com/ch26.htm)
+  * [27: Data Compression](http://www.dspguide.com/ch27.htm)
+  * [28: Digital Signal Processors](http://www.dspguide.com/ch28.htm)
+  * [29: Getting Started with DSPs](http://www.dspguide.com/ch29.htm)
+  * [30: Complex Numbers](http://www.dspguide.com/ch30.htm)
+  * [31: The Complex Fourier Transform](http://www.dspguide.com/ch31.htm)
+  * [32: The Laplace Transform](http://www.dspguide.com/ch32.htm)
+  * [33: The z-Transform](http://www.dspguide.com/ch33.htm)
+  * [34: Explaining Benford's Law](http://www.dspguide.com/ch34.htm)
+
 **Signal and Graph Terminology**
 
 A signal is a description of how one parameter depends on another parameter. For example, the most common type of signal in analog electronics is a voltage that varies with time. Since both parameters can assume a continuous range of values, we will call this a continuous signal. In comparison, passing this signal through an analog-to-digital converter forces each of the two parameters to be quantized. For instance, imagine the conversion being done with 12 bits at a sampling rate of one kilohertz. The voltage is curtailed to 4096 possible binary levels, and the time is only defined at one millisecond increments. Signals formed from parameters that are quantized in this manner are said to be discrete signals or digitized signals. For the most part, continuous signals exist in nature, while discrete signals exist inside computers \(although you can find exceptions to both cases\). It is also possible to have signals where one parameter is continuous and the other is discrete. Since these mixed signals are quite uncommon, they do not have special names given to them, and the nature of the two parameters must be explicitly stated.
