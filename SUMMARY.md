@@ -17,4 +17,5 @@
 * [PHYSICS OF CONDUCTORS AND INSULATORS](notes/physics-of-conductors-and-insulators.md)
 * [CAPACITORS](notes/capacitors.md)
 * [MAGNETISM AND ELECTROMAGNETISM](notes/magnetism-and-electromagnetism.md)
+* [INDUCTORS](notes/inductors.md)
 
