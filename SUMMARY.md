@@ -15,4 +15,5 @@
 * [DC NETWORK ANALYSIS](notes/dc-network-analysis.md)
 * [BATTERIES AND POWER SYSTEMS](notes/batteries-and-power-systems.md)
 * [PHYSICS OF CONDUCTORS AND INSULATORS](notes/physics-of-conductors-and-insulators.md)
+* [CAPACITORS](notes/capacitors.md)
 
