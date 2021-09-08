@@ -18,4 +18,5 @@
 * [CAPACITORS](notes/capacitors.md)
 * [MAGNETISM AND ELECTROMAGNETISM](notes/magnetism-and-electromagnetism.md)
 * [INDUCTORS](notes/inductors.md)
+* [RC AND L/R TIME CONSTANTS](notes/rc-and-l-r-time-constants.md)
 
