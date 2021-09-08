@@ -22,5 +22,9 @@
 
 ## Digital Signal Processing
 
+* [Intro 2 DSP](digital-signal-processing/intro-2-dsp/README.md)
+  * [Quantization](digital-signal-processing/intro-2-dsp/quantization.md)
+  * [The Sampling Theorem](digital-signal-processing/intro-2-dsp/the-sampling-theorem.md)
+* [Distributed Arithmetic](digital-signal-processing/distributed-arithmetic.md)
 * [Digital Signal Processing](digital-signal-processing/digital-signal-processing.md)
 
