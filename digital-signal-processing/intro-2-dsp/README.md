@@ -30,6 +30,18 @@
 
 {% file src="../../.gitbook/assets/dsp\_book\_ch13.pdf" %}
 
+{% file src="../../.gitbook/assets/dsp\_book\_ch14.pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch15.pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch16.pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch17.pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch18.pdf" %}
+
+{% file src="../../.gitbook/assets/dsp\_book\_ch19.pdf" %}
+
 
 
 
